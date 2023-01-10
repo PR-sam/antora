@@ -1,0 +1,11 @@
+site:
+  title: Test Antora 
+  url: http://antora.samwells.net
+  start_page: pages::index.adoc
+content:
+  sources:
+  - url: https://github.com/PR-sam/antora.git
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
