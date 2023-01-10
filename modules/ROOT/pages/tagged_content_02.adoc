@@ -1,4 +1,3 @@
-Cock
 
 # tag::option3[]
 I am from 03

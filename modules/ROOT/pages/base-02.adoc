@@ -8,13 +8,8 @@ include::tagged_content.adoc[leveloffset=+1, tag=option1]
 === Sometimes we may wish to use some other content here:
 
 include::tagged_content.adoc[leveloffset=+2, tag=option2]
-
 include::tagged_content_02.adoc[leveloffset=+3, tag=option3]
-
-image::img/earth.jpeg[earth, 300,300]
-
+image::images/earth.jpeg[earth, 300,300]
 include::tagged_content_02.adoc[leveloffset=+3, tag=option4]
-
 include::tagged_content_02.adoc[leveloffset=+3, tag=option]
-
 include::tagged_content_02.adoc[]
