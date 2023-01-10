@@ -29,7 +29,7 @@ Page 2 link : scratch.html [Page 2]
 
 Refer to link:scratch.html[Page 2] for more information.
 
-image::earth.jpeg[earth, 300,300]
+#image::earth.jpeg[earth, 300,300]
 
 
 WARNING: hello
