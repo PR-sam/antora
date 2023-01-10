@@ -1,0 +1,7 @@
+# tag::option1[]
+I am from a different tag
+# end::option1[]
+
+# tag::option2[]
+I live in a hilltop cave.
+# end::option2[]

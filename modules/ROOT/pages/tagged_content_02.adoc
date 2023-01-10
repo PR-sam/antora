@@ -1,0 +1,13 @@
+Cock
+
+# tag::option3[]
+I am from 03
+# end::option3[]
+
+# tag::option4[]
+I am from 04
+# end::option4[]
+
+# tag::option5[]
+I am from 05
+# end::option5[]
