@@ -1,0 +1,35 @@
+
+:toc:
+
+= Document Title
+:icons: font
+
+== Level 1 Section Title
+
+=== Level 2 Title
+[cols="1,1,1"]
+|===
+|hello
+|world
+|Saturn
+|===
+
+NOTE: Do not step on bananas
+
+.Menu
+[%collapsible]
+
+====
+hello1
+hello2
+hello3
+====
+
+Page 2 link : scratch.html [Page 2]
+
+Refer to link:scratch.html[Page 2] for more information.
+
+image::earth.jpeg[earth, 300,300]
+
+
+WARNING: hello
