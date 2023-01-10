@@ -1,7 +1,7 @@
 site:
   title: Test Antora 
   url: http://antora.samwells.net
-  start_page: pages::index.adoc
+  start_page: index.adoc
   start_path: modules/ROOT
 
 content:
